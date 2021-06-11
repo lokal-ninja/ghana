@@ -1,6 +1,6 @@
 ---
 title: Ajumako
 url: /ajumako/
-latitude: 5.4254096
-longitude: -0.9588689
+latitude: 5.427924900000001
+longitude: -0.9585242
 ---
