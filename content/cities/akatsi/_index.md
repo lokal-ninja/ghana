@@ -1,6 +1,6 @@
 ---
 title: Akatsi
 url: /akatsi/
-latitude: 6.131023000000001
-longitude: 0.798211
+latitude: 6.129
+longitude: 0.804
 ---

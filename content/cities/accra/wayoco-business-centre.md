@@ -1,5 +1,5 @@
 ---
 title: "Wayoco Business Centre"
 url: /accra/wayoco-business-centre/
-shop: copyshop
+shop: Kopieren
 ---

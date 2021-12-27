@@ -1,5 +1,5 @@
 ---
 title: "Modern Beauty Saloon"
 url: /accra/modern-beauty-saloon/
-shop: beauty
+shop: Kosmetik
 ---

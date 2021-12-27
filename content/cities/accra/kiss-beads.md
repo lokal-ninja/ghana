@@ -1,5 +1,5 @@
 ---
 title: "Kiss Beads"
 url: /accra/kiss-beads/
-shop: shoes
+shop: Schuhe
 ---

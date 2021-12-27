@@ -1,5 +1,5 @@
 ---
 title: "Imagination Unisex Salon"
 url: /accra/imagination-unisex-salon/
-shop: hairdresser
+shop: Friseur
 ---

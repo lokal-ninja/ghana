@@ -1,5 +1,5 @@
 ---
 title: "Aniest Catering Service"
 url: /accra/aniest-catering-service/
-shop: pastry
+shop: Konditorei
 ---

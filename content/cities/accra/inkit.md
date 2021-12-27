@@ -1,5 +1,5 @@
 ---
 title: "Inkit"
 url: /accra/inkit/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kumasi
 url: /kumasi/
-latitude: 6.698081
-longitude: -1.6230404
+latitude: 6.674
+longitude: -1.657
 ---

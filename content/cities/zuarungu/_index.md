@@ -1,6 +1,6 @@
 ---
 title: Zuarungu
 url: /zuarungu/
-latitude: 10.7895467
-longitude: -0.8027080000000001
+latitude: 10.792
+longitude: -0.792
 ---

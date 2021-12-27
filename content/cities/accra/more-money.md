@@ -1,5 +1,5 @@
 ---
 title: "More Money"
 url: /accra/more-money/
-shop: lottery
+shop: Lotterie
 ---

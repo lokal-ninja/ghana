@@ -1,6 +1,6 @@
 ---
 title: Takoradi
 url: /takoradi/
-latitude: 4.8874010000000006
-longitude: -1.7519316
+latitude: 4.897
+longitude: -1.758
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wa
 url: /wa/
-latitude: 10.0623261
-longitude: -2.5054273
+latitude: 10.062
+longitude: -2.51
 ---

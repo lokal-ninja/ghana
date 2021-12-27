@@ -1,5 +1,5 @@
 ---
 title: "Soccabet"
 url: /accra/soccabet/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allahu Fashion Centre"
 url: /accra/allahu-fashion-centre/
-shop: tailor
+shop: Schneiderei
 ---

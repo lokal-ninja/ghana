@@ -1,6 +1,6 @@
 ---
 title: Kunsu
 url: /kunsu/
-latitude: 
-longitude: 
+latitude: 6.827
+longitude: -1.888
 ---

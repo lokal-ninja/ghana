@@ -1,6 +1,6 @@
 ---
 title: Tarkwa
 url: /tarkwa/
-latitude: 
-longitude: 
+latitude: 5.301
+longitude: -2
 ---

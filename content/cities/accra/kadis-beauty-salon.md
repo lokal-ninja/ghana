@@ -1,5 +1,5 @@
 ---
 title: "Kadis Beauty Salon"
 url: /accra/kadis-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

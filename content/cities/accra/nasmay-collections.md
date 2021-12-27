@@ -1,5 +1,5 @@
 ---
 title: "NaSmay Collections"
 url: /accra/nasmay-collections/
-shop: clothes
+shop: Kleidung
 ---

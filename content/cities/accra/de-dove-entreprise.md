@@ -1,5 +1,5 @@
 ---
 title: "De Dove Entreprise"
 url: /accra/de-dove-entreprise/
-shop: kiosk
+shop: Kiosk
 ---

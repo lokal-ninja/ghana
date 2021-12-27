@@ -1,5 +1,5 @@
 ---
 title: "Ajoned Press"
 url: /accra/ajoned-press/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iFix Gadgets Technology"
 url: /accra/ifix-gadgets-technology/
-shop: electronics
+shop: Elektronik
 ---

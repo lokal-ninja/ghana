@@ -1,5 +1,5 @@
 ---
 title: "Hernbemax Printing Works"
 url: /accra/hernbemax-printing-works/
-shop: copyshop
+shop: Kopieren
 ---

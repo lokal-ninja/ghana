@@ -1,5 +1,5 @@
 ---
 title: "New Season Key Service"
 url: /accra/new-season-key-service/
-shop: locksmith
+shop: Schlüsseldienst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bentil's Waterland"
 url: /accra/bentils-waterland/
-shop: beverages
+shop: Getränke
 ---

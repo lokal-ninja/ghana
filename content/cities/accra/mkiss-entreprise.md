@@ -1,5 +1,5 @@
 ---
 title: "M'Kiss Entreprise"
 url: /accra/mkiss-entreprise/
-shop: kiosk
+shop: Kiosk
 ---

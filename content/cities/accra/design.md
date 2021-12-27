@@ -1,5 +1,5 @@
 ---
 title: "Design"
 url: /accra/design/
-shop: copyshop
+shop: Kopieren
 ---

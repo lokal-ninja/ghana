@@ -1,5 +1,5 @@
 ---
 title: "Citiprint"
 url: /accra/citiprint/
-shop: copyshop
+shop: Kopieren
 ---

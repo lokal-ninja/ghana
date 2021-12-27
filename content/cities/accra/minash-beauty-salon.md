@@ -1,5 +1,5 @@
 ---
 title: "Minash Beauty Salon"
 url: /accra/minash-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

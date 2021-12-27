@@ -1,5 +1,5 @@
 ---
 title: "Topgate"
 url: /accra/topgate/
-shop: kiosk
+shop: Kiosk
 ---

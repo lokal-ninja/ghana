@@ -1,5 +1,5 @@
 ---
 title: "Beyondesians"
 url: /accra/beyondesians/
-shop: copyshop
+shop: Kopieren
 ---

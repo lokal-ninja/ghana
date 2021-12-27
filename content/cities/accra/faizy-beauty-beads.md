@@ -1,5 +1,5 @@
 ---
 title: "Faizy Beauty Beads"
 url: /accra/faizy-beauty-beads/
-shop: jewelry
+shop: Schmuck
 ---

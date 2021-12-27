@@ -1,5 +1,5 @@
 ---
 title: "Zaitifa Enterprise"
 url: /accra/zaitifa-enterprise/
-shop: convenience
+shop: Lebensmittel
 ---
