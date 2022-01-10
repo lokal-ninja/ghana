@@ -1,5 +1,5 @@
 ---
 title: "Allah is Able Cosmetics"
 url: /accra/allah-is-able-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glams by Hawat"
 url: /accra/glams-by-hawat/
-shop: Kosmetik
+shop: beauty
 ---

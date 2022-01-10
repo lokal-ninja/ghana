@@ -1,5 +1,5 @@
 ---
 title: "Anita Nyame Tobbin"
 url: /accra/anita-nyame-tobbin/
-shop: Drogerie
+shop: chemist
 ---

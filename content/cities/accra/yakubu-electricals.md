@@ -1,5 +1,5 @@
 ---
 title: "Yakubu Electricals"
 url: /accra/yakubu-electricals/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adams Hair Cut"
 url: /accra/adams-hair-cut/
-shop: Friseur
+shop: hairdresser
 ---

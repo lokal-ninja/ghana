@@ -1,5 +1,5 @@
 ---
 title: "Quality Phones"
 url: /accra/quality-phones/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shabanea Cosmetics"
 url: /accra/shabanea-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

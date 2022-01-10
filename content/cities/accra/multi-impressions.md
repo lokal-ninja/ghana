@@ -1,5 +1,5 @@
 ---
 title: "Multi Impressions"
 url: /accra/multi-impressions/
-shop: Kopieren
+shop: copyshop
 ---

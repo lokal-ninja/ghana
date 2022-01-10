@@ -1,5 +1,5 @@
 ---
 title: "Everest Wholesale Computers"
 url: /accra/everest-wholesale-computers/
-shop: Elektronik
+shop: electronics
 ---

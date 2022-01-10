@@ -1,5 +1,5 @@
 ---
 title: "Crystal Awards Pylons"
 url: /accra/crystal-awards-pylons/
-shop: Kopieren
+shop: copyshop
 ---

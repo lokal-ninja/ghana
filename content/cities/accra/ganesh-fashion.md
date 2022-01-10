@@ -1,5 +1,5 @@
 ---
 title: "Ganesh Fashion"
 url: /accra/ganesh-fashion/
-shop: Schneiderei
+shop: tailor
 ---

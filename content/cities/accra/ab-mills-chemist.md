@@ -1,5 +1,5 @@
 ---
 title: "AB Mills Chemist"
 url: /accra/ab-mills-chemist/
-shop: Drogerie
+shop: chemist
 ---

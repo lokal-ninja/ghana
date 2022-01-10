@@ -1,5 +1,5 @@
 ---
 title: "Fabric Worm"
 url: /accra/fabric-worm/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atchakoli Boutique"
 url: /accra/atchakoli-boutique/
-shop: Modehaus
+shop: boutique
 ---

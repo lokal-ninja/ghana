@@ -1,5 +1,5 @@
 ---
 title: "Come Chop Money"
 url: /accra/come-chop-money/
-shop: Lotterie
+shop: lottery
 ---

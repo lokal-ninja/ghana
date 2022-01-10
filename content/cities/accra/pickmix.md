@@ -1,5 +1,5 @@
 ---
 title: "Pickmix"
 url: /accra/pickmix/
-shop: Lebensmittel
+shop: convenience
 ---

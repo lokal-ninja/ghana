@@ -1,5 +1,5 @@
 ---
 title: "God is Good"
 url: /accra/god-is-good-2/
-shop: Kiosk
+shop: kiosk
 ---

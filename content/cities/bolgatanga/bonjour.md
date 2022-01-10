@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /bolgatanga/bonjour/
-shop: Kiosk
+shop: kiosk
 ---

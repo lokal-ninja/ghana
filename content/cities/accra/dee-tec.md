@@ -1,5 +1,5 @@
 ---
 title: "Dee-Tec"
 url: /accra/dee-tec/
-shop: Elektronik
+shop: electronics
 ---

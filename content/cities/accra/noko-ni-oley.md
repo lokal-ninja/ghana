@@ -1,5 +1,5 @@
 ---
 title: "Noko Ni Oley"
 url: /accra/noko-ni-oley/
-shop: Kiosk
+shop: kiosk
 ---

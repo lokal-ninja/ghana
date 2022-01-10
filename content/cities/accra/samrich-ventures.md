@@ -1,5 +1,5 @@
 ---
 title: "Samrich Ventures"
 url: /accra/samrich-ventures/
-shop: Babysachen
+shop: baby goods
 ---

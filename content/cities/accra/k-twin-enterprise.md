@@ -1,5 +1,5 @@
 ---
 title: "K-Twin Enterprise"
 url: /accra/k-twin-enterprise/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Egg Boutique"
 url: /accra/egg-boutique/
-shop: Kiosk
+shop: kiosk
 ---

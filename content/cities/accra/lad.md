@@ -1,5 +1,5 @@
 ---
 title: "LAD"
 url: /accra/lad/
-shop: Schneiderei
+shop: tailor
 ---

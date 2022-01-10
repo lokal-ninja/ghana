@@ -1,5 +1,5 @@
 ---
 title: "Shikakope"
 url: /accra/shikakope/
-shop: Kamera
+shop: camera
 ---

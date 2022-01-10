@@ -1,5 +1,5 @@
 ---
 title: "Anita Enterprise"
 url: /accra/anita-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

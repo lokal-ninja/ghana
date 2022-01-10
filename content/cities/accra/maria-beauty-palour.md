@@ -1,5 +1,5 @@
 ---
 title: "Maria Beauty Palour"
 url: /accra/maria-beauty-palour/
-shop: Kosmetik
+shop: beauty
 ---

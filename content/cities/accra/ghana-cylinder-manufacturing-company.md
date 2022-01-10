@@ -1,5 +1,5 @@
 ---
 title: "Ghana Cylinder Manufacturing Company"
 url: /accra/ghana-cylinder-manufacturing-company/
-shop: Allgemein
+shop: shop
 ---

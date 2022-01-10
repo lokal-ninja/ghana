@@ -1,5 +1,5 @@
 ---
 title: "Peepessco Ventures"
 url: /accra/peepessco-ventures/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edikilia Ventures"
 url: /accra/edikilia-ventures/
-shop: Kiosk
+shop: kiosk
 ---

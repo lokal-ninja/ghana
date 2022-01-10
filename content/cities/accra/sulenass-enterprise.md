@@ -1,5 +1,5 @@
 ---
 title: "Sulenass Enterprise"
 url: /accra/sulenass-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

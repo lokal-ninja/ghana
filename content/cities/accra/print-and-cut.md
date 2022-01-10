@@ -1,5 +1,5 @@
 ---
 title: "Print And Cut"
 url: /accra/print-and-cut/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ellen Fashion center"
 url: /accra/ellen-fashion-center/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Love.Com"
 url: /accra/one-love-com/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Modern Living"
 url: /accra/modern-living/
-shop: Elektronik
+shop: electronics
 ---

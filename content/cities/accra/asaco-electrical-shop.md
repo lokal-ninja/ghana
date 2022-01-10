@@ -1,5 +1,5 @@
 ---
 title: "Asaco Electrical Shop"
 url: /accra/asaco-electrical-shop/
-shop: Elektronik
+shop: electronics
 ---

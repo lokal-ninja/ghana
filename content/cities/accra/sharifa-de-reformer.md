@@ -1,5 +1,5 @@
 ---
 title: "Sharifa De Reformer"
 url: /accra/sharifa-de-reformer/
-shop: Kosmetik
+shop: beauty
 ---

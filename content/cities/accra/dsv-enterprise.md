@@ -1,5 +1,5 @@
 ---
 title: "DSV Enterprise"
 url: /accra/dsv-enterprise/
-shop: Kopieren
+shop: copyshop
 ---

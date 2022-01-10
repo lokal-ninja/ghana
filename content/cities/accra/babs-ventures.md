@@ -1,5 +1,5 @@
 ---
 title: "Babs Ventures"
 url: /accra/babs-ventures/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam's Electronic Shop"
 url: /accra/sams-electronic-shop/
-shop: Elektronik
+shop: electronics
 ---

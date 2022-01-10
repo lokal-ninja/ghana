@@ -1,5 +1,5 @@
 ---
 title: "No Credit"
 url: /accra/no-credit/
-shop: Kopieren
+shop: copyshop
 ---

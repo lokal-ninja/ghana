@@ -1,5 +1,5 @@
 ---
 title: "Culubali Enterprise"
 url: /accra/culubali-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

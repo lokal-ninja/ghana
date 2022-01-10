@@ -1,5 +1,5 @@
 ---
 title: "Cafu Games and Business Centre"
 url: /accra/cafu-games-and-business-centre/
-shop: Videospiele
+shop: video games
 ---

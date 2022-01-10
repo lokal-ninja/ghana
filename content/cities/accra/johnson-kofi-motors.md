@@ -1,5 +1,5 @@
 ---
 title: "Johnson Kofi Motors"
 url: /accra/johnson-kofi-motors/
-shop: Autoteile
+shop: car parts
 ---

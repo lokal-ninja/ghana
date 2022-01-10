@@ -1,5 +1,5 @@
 ---
 title: "Light Upon Light"
 url: /accra/light-upon-light/
-shop: Kopieren
+shop: copyshop
 ---

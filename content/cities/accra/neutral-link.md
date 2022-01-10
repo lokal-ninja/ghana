@@ -1,5 +1,5 @@
 ---
 title: "Neutral Link"
 url: /accra/neutral-link/
-shop: Elektronik
+shop: electronics
 ---

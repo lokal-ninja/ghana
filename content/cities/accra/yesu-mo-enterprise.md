@@ -1,5 +1,5 @@
 ---
 title: "Yesu-Mo Enterprise"
 url: /accra/yesu-mo-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

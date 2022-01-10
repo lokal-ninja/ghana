@@ -1,5 +1,5 @@
 ---
 title: "Madav Enterprise"
 url: /accra/madav-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

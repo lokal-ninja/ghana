@@ -1,5 +1,5 @@
 ---
 title: "Hawesa Enterprise"
 url: /accra/hawesa-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

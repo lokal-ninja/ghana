@@ -1,5 +1,5 @@
 ---
 title: "By The Grace"
 url: /accra/by-the-grace/
-shop: Kiosk
+shop: kiosk
 ---

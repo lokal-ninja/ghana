@@ -1,5 +1,5 @@
 ---
 title: "Lairms"
 url: /accra/lairms/
-shop: Supermarkt
+shop: supermarket
 ---

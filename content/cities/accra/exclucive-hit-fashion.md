@@ -1,5 +1,5 @@
 ---
 title: "Exclucive Hit Fashion"
 url: /accra/exclucive-hit-fashion/
-shop: Schneiderei
+shop: tailor
 ---

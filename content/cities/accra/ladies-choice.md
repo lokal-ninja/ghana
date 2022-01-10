@@ -1,5 +1,5 @@
 ---
 title: "Ladies Choice"
 url: /accra/ladies-choice/
-shop: Kleidung
+shop: clothes
 ---

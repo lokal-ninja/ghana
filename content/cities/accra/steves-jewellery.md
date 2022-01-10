@@ -1,5 +1,5 @@
 ---
 title: "Steve's Jewellery"
 url: /accra/steves-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

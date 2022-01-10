@@ -1,5 +1,5 @@
 ---
 title: "Lamor Fashion Design"
 url: /accra/lamor-fashion-design/
-shop: Schneiderei
+shop: tailor
 ---

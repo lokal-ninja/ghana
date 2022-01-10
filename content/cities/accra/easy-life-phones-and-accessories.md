@@ -1,5 +1,5 @@
 ---
-title: "Easy Life Phones and Accessories"
+title: "Easy Life Phones & Accessories"
 url: /accra/easy-life-phones-and-accessories/
-shop: Handy
+shop: mobile phone
 ---

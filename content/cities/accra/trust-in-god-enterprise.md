@@ -1,5 +1,5 @@
 ---
 title: "Trust in God Enterprise"
 url: /accra/trust-in-god-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

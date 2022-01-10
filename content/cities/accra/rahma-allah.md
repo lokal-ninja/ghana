@@ -1,5 +1,5 @@
 ---
 title: "Rahma Allah"
 url: /accra/rahma-allah/
-shop: Kiosk
+shop: kiosk
 ---

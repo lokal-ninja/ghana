@@ -1,5 +1,5 @@
 ---
 title: "Maame Zara Trendz"
 url: /accra/maame-zara-trendz/
-shop: Modehaus
+shop: boutique
 ---

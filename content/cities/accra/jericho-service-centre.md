@@ -1,5 +1,5 @@
 ---
 title: "Jericho Service Centre"
 url: /accra/jericho-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

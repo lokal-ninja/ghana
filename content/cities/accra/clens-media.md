@@ -1,5 +1,5 @@
 ---
 title: "Clens Media"
 url: /accra/clens-media/
-shop: Kopieren
+shop: copyshop
 ---

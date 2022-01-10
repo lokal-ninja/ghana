@@ -1,5 +1,5 @@
 ---
 title: "Love Me Enterprise"
 url: /accra/love-me-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

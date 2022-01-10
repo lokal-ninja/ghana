@@ -1,5 +1,5 @@
 ---
 title: "Home of Diapers"
 url: /accra/home-of-diapers/
-shop: Kiosk
+shop: kiosk
 ---

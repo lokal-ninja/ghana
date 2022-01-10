@@ -1,5 +1,5 @@
 ---
 title: "Rain In Supermarket"
 url: /bolgatanga/rain-in-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

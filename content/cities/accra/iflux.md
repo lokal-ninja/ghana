@@ -1,5 +1,5 @@
 ---
 title: "Iflux"
 url: /accra/iflux/
-shop: Elektronik
+shop: electronics
 ---

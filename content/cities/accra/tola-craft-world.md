@@ -1,5 +1,5 @@
 ---
 title: "Tola Craft World"
 url: /accra/tola-craft-world/
-shop: Schneiderei
+shop: tailor
 ---

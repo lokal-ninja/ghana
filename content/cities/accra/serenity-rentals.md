@@ -1,5 +1,5 @@
 ---
 title: "Serenity Rentals"
 url: /accra/serenity-rentals/
-shop: Mieten
+shop: storage rental
 ---

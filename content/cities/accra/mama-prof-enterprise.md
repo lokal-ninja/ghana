@@ -1,5 +1,5 @@
 ---
 title: "Mama Prof. Enterprise"
 url: /accra/mama-prof-enterprise/
-shop: Kosmetik
+shop: beauty
 ---

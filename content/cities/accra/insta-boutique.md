@@ -1,5 +1,5 @@
 ---
 title: "Insta Boutique"
 url: /accra/insta-boutique/
-shop: Modehaus
+shop: boutique
 ---

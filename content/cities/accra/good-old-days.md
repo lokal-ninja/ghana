@@ -1,5 +1,5 @@
 ---
 title: "Good Old Days"
 url: /accra/good-old-days/
-shop: Kiosk
+shop: kiosk
 ---

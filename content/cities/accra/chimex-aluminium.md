@@ -1,5 +1,5 @@
 ---
 title: "Chimex Aluminium"
 url: /accra/chimex-aluminium/
-shop: Eisenwaren
+shop: hardware
 ---

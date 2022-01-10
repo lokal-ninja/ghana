@@ -1,5 +1,5 @@
 ---
 title: "Sammy's Bookshop"
 url: /accra/sammys-bookshop/
-shop: Bücher
+shop: books
 ---

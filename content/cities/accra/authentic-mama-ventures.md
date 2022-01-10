@@ -1,5 +1,5 @@
 ---
 title: "Authentic Mama Ventures"
 url: /accra/authentic-mama-ventures/
-shop: Textil
+shop: fabric
 ---

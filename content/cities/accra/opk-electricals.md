@@ -1,5 +1,5 @@
 ---
 title: "Opk Electricals"
 url: /accra/opk-electricals/
-shop: Elektronik
+shop: electronics
 ---

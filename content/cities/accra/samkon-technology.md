@@ -1,5 +1,5 @@
 ---
 title: "Samkon Technology"
 url: /accra/samkon-technology/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anointed Dalt"
 url: /accra/anointed-dalt/
-shop: Friseur
+shop: hairdresser
 ---

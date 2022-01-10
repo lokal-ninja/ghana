@@ -1,5 +1,5 @@
 ---
 title: "Kenzey Fashion Centre"
 url: /accra/kenzey-fashion-centre/
-shop: Schneiderei
+shop: tailor
 ---

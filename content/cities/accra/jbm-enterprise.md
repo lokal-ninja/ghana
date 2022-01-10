@@ -1,5 +1,5 @@
 ---
 title: "JBM Enterprise"
 url: /accra/jbm-enterprise/
-shop: Lebensmittel
+shop: convenience
 ---

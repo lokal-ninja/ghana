@@ -1,5 +1,5 @@
 ---
 title: "Wise Image"
 url: /accra/wise-image/
-shop: Kopieren
+shop: copyshop
 ---

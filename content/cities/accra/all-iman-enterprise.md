@@ -1,5 +1,5 @@
 ---
 title: "All Iman Enterprise"
 url: /accra/all-iman-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

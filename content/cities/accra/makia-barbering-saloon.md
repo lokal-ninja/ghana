@@ -1,5 +1,5 @@
 ---
 title: "Makia Barbering Saloon"
 url: /accra/makia-barbering-saloon/
-shop: Friseur
+shop: hairdresser
 ---

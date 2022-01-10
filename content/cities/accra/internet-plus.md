@@ -1,5 +1,5 @@
 ---
 title: "Internet Plus"
 url: /accra/internet-plus/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Photo Ike"
 url: /accra/photo-ike/
-shop: Foto
+shop: photo
 ---

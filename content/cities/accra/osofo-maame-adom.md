@@ -1,5 +1,5 @@
 ---
 title: "Osofo Maame Adom"
 url: /accra/osofo-maame-adom/
-shop: Kiosk
+shop: kiosk
 ---

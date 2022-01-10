@@ -1,5 +1,5 @@
 ---
 title: "Cecilia Beauty Salon"
 url: /accra/cecilia-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

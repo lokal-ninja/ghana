@@ -1,5 +1,5 @@
 ---
 title: "Gambo"
 url: /accra/gambo/
-shop: Kiosk
+shop: kiosk
 ---

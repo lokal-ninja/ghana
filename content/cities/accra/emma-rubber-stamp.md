@@ -1,5 +1,5 @@
 ---
 title: "Emma Rubber Stamp"
 url: /accra/emma-rubber-stamp/
-shop: Schreibwaren
+shop: office supplies
 ---

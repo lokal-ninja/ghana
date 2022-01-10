@@ -1,5 +1,5 @@
 ---
 title: "Flash Boutique"
 url: /accra/flash-boutique/
-shop: Modehaus
+shop: boutique
 ---

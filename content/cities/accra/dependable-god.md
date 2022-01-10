@@ -1,5 +1,5 @@
 ---
 title: "Dependable God"
 url: /accra/dependable-god/
-shop: Kiosk
+shop: kiosk
 ---
