@@ -1,6 +1,6 @@
 ---
 title: Tema
 url: /tema/
-latitude: 5.771
-longitude: -0.002
+latitude: 5.723
+longitude: 0.018
 ---
