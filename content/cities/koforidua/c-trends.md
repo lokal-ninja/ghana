@@ -1,5 +1,5 @@
 ---
-title: "C Trends"
+title: "C TRENDS"
 url: /koforidua/c-trends/
 shop: clothes
 ---
