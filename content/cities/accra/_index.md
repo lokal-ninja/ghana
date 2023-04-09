@@ -1,6 +1,6 @@
 ---
 title: Accra
 url: /accra/
-latitude: 5.621
-longitude: -0.228
+latitude: 5.634
+longitude: -0.239
 ---
