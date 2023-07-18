@@ -1,5 +1,5 @@
 ---
 title: "Zara Exclusive Design"
 url: /accra/zara-exclusive-design/
-shop: boutique
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Modana's Jewelry & Collections"
 url: /accra/modanas-jewelry-and-collections/
-shop: boutique
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
-title: "SHEI'S Salon"
+title: "Shei's Salon"
 url: /new-weija/sheis-salon/
 shop: beauty
 ---

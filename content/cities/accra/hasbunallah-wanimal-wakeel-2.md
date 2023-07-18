@@ -1,5 +1,5 @@
 ---
 title: "Hasbunallah Wanimal Wakeel"
 url: /accra/hasbunallah-wanimal-wakeel/
-shop: boutique
+shop: clothes
 ---

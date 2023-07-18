@@ -1,5 +1,5 @@
 ---
 title: "Samdo"
 url: /accra/samdo/
-shop: boutique
+shop: clothes
 ---
