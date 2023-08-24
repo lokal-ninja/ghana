@@ -1,5 +1,5 @@
 ---
-title: "The Lord is My Shepherd"
+title: "The Lord Is My Shepherd"
 url: /accra/the-lord-is-my-shepherd/
-shop: hairdresser
+shop: kiosk
 ---
