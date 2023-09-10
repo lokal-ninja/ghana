@@ -1,5 +1,5 @@
 ---
 title: "God is Great"
 url: /accra/god-is-great/
-shop: clothes
+shop: convenience
 ---
