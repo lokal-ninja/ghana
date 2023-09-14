@@ -1,5 +1,5 @@
 ---
 title: "Jesus Never Fails"
-url: /accra/jesus-never-fails/
+url: /accra/jesus-never-fails-kwashie-bezrot-street/
 shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nyame Adom"
-url: /accra/nyame-adom/
+url: /accra/nyame-adom-oku-street/
 shop: kiosk
 ---

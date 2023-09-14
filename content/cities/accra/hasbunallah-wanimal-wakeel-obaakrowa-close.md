@@ -1,5 +1,5 @@
 ---
 title: "Hasbunallah Wanimal Wakeel"
-url: /accra/hasbunallah-wanimal-wakeel/
+url: /accra/hasbunallah-wanimal-wakeel-obaakrowa-close/
 shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tamale
 url: /tamale/
-latitude: 9.404
-longitude: -0.864
+latitude: 9.406
+longitude: -0.843
 ---
