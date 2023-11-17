@@ -1,5 +1,5 @@
 ---
-title: "HasbunAllah Wanimal Wakeel"
+title: "Hasbunallah Wanimal Wakeel"
 url: /accra/hasbunallah-wanimal-wakeel/
 shop: kiosk
 ---
