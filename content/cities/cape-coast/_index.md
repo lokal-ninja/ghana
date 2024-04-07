@@ -1,6 +1,6 @@
 ---
 title: Cape Coast
 url: /cape-coast/
-latitude: 5.115
-longitude: -1.293
+latitude: 5.122
+longitude: -1.273
 ---
