@@ -1,5 +1,5 @@
 ---
 title: "Fuse Home of Styles"
 url: /accra/fuse-home-of-styles/
-shop: hairdresser
+shop: Friseur
 ---

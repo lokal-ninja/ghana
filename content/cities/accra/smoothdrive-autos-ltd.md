@@ -1,5 +1,5 @@
 ---
 title: "Smoothdrive Autos ltd"
 url: /accra/smoothdrive-autos-ltd/
-shop: gift
+shop: Andenken
 ---

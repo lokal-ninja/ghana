@@ -1,5 +1,5 @@
 ---
 title: "Print"
 url: /accra/print/
-shop: copyshop
+shop: Kopieren
 ---

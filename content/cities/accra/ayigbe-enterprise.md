@@ -1,5 +1,5 @@
 ---
 title: "Ayigbe Enterprise"
 url: /accra/ayigbe-enterprise/
-shop: clothes
+shop: Kleidung
 ---

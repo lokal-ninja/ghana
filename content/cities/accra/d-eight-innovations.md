@@ -1,5 +1,5 @@
 ---
 title: "D-eight Innovations"
 url: /accra/d-eight-innovations/
-shop: copyshop
+shop: Kopieren
 ---

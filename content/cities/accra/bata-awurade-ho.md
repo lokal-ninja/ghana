@@ -1,5 +1,5 @@
 ---
 title: "Bata Awurade Ho"
 url: /accra/bata-awurade-ho/
-shop: convenience
+shop: Lebensmittel
 ---

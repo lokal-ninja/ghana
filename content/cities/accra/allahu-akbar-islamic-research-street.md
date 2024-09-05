@@ -1,5 +1,5 @@
 ---
 title: "Allahu Akbar"
 url: /accra/allahu-akbar-islamic-research-street/
-shop: kiosk
+shop: Kiosk
 ---

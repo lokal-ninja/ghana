@@ -1,5 +1,5 @@
 ---
 title: "Mamus Dagher"
 url: /accra/mamus-dagher/
-shop: kiosk
+shop: Kiosk
 ---

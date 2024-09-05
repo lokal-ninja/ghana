@@ -1,5 +1,5 @@
 ---
 title: "Bs Ambas Business"
 url: /accra/bs-ambas-business/
-shop: copyshop
+shop: Kopieren
 ---

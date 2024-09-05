@@ -1,5 +1,5 @@
 ---
 title: "Michigan Barber Shop"
 url: /accra/michigan-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

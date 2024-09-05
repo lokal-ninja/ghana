@@ -1,5 +1,5 @@
 ---
 title: "Ejection Fashion Design"
 url: /accra/ejection-fashion-design/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chel-de-jo"
 url: /accra/chel-de-jo/
-shop: clothes
+shop: Kleidung
 ---

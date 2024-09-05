@@ -1,5 +1,5 @@
 ---
 title: "LUD Multimedia"
 url: /accra/lud-multimedia/
-shop: electronics
+shop: Elektronik
 ---

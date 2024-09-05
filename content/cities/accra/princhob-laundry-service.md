@@ -1,5 +1,5 @@
 ---
 title: "Princhob Laundry Service"
 url: /accra/princhob-laundry-service/
-shop: laundry
+shop: Wäscherei
 ---

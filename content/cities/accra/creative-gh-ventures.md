@@ -1,5 +1,5 @@
 ---
 title: "Creative GH Ventures"
 url: /accra/creative-gh-ventures/
-shop: electronics
+shop: Elektronik
 ---

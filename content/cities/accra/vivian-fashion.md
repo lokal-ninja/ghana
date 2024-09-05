@@ -1,5 +1,5 @@
 ---
 title: "Vivian Fashion"
 url: /accra/vivian-fashion/
-shop: tailor
+shop: Schneiderei
 ---

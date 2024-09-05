@@ -1,5 +1,5 @@
 ---
 title: "Dennis Mensah"
 url: /accra/dennis-mensah/
-shop: chemist
+shop: Drogerie
 ---

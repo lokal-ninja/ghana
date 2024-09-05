@@ -1,5 +1,5 @@
 ---
 title: "R and R lounge"
 url: /accra/r-and-r-lounge/
-shop: beauty
+shop: Kosmetik
 ---

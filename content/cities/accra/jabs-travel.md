@@ -1,5 +1,5 @@
 ---
 title: "Jabs Travel"
 url: /accra/jabs-travel/
-shop: travel agency
+shop: Reisebüro
 ---

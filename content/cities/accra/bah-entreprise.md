@@ -1,5 +1,5 @@
 ---
 title: "Bah Entreprise"
 url: /accra/bah-entreprise/
-shop: clothes
+shop: Kleidung
 ---

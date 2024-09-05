@@ -1,5 +1,5 @@
 ---
 title: "Alexander Kissi"
 url: /accra/alexander-kissi/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "God Gift Baba Enterprise"
 url: /zuarungu/god-gift-baba-enterprise/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Martin's Bakery"
 url: /teshie/martins-bakery/
-shop: bakery
+shop: Bäckerei
 ---

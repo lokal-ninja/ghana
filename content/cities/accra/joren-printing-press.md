@@ -1,5 +1,5 @@
 ---
 title: "Joren printing press"
 url: /accra/joren-printing-press/
-shop: copyshop
+shop: Kopieren
 ---

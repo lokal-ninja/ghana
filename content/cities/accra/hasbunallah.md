@@ -1,5 +1,5 @@
 ---
 title: "Hasbunallah"
 url: /accra/hasbunallah/
-shop: kiosk
+shop: Kiosk
 ---

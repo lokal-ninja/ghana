@@ -1,5 +1,5 @@
 ---
 title: "Broadway Arena Sports Lounge"
 url: /accra/broadway-arena-sports-lounge/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geosant"
 url: /accra/geosant/
-shop: copyshop
+shop: Kopieren
 ---

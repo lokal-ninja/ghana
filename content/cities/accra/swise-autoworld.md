@@ -1,5 +1,5 @@
 ---
 title: "SWISE AUTOWORLD"
 url: /accra/swise-autoworld/
-shop: car parts
+shop: Autoteile
 ---

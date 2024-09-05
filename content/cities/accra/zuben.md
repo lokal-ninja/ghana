@@ -1,5 +1,5 @@
 ---
 title: "Zuben"
 url: /accra/zuben/
-shop: clothes
+shop: Kleidung
 ---

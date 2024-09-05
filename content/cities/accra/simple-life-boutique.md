@@ -1,5 +1,5 @@
 ---
 title: "Simple Life Boutique"
 url: /accra/simple-life-boutique/
-shop: clothes
+shop: Kleidung
 ---

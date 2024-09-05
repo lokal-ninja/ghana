@@ -1,5 +1,5 @@
 ---
 title: "Chalies"
 url: /accra/chalies/
-shop: butcher
+shop: Metzgerei
 ---

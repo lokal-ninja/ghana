@@ -1,5 +1,5 @@
 ---
 title: "Nailcanta"
 url: /accra/nailcanta/
-shop: beauty
+shop: Kosmetik
 ---

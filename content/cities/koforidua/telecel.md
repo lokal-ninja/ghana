@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /koforidua/telecel/
-shop: mobile phone
+shop: Handy
 ---

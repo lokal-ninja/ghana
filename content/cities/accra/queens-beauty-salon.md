@@ -1,5 +1,5 @@
 ---
-title: "Queen's Beauty Salon"
+title: "Queens Beauty Salon"
 url: /accra/queens-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

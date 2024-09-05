@@ -1,5 +1,5 @@
 ---
 title: "Shani Allah Badama Provision Shop"
 url: /accra/shani-allah-badama-provision-shop/
-shop: kiosk
+shop: Kiosk
 ---

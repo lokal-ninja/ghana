@@ -1,5 +1,5 @@
 ---
 title: "Charity Fashion"
 url: /accra/charity-fashion/
-shop: tailor
+shop: Schneiderei
 ---
