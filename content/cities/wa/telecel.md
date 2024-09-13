@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /wa/telecel/
-shop: Handy
+shop: mobile phone
 ---

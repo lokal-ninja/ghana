@@ -1,5 +1,5 @@
 ---
 title: "Munawara"
 url: /accra/munawara/
-shop: Kiosk
+shop: kiosk
 ---

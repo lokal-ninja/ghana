@@ -1,5 +1,5 @@
 ---
 title: "CIS Susu"
 url: /accra/cis-susu/
-shop: Leiher
+shop: pawnbroker
 ---

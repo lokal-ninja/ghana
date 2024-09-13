@@ -1,5 +1,5 @@
 ---
 title: "Hasbuna"
 url: /accra/hasbuna/
-shop: Kleidung
+shop: clothes
 ---

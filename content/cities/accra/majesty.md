@@ -1,5 +1,5 @@
 ---
 title: "Majesty"
 url: /accra/majesty/
-shop: Kleidung
+shop: clothes
 ---

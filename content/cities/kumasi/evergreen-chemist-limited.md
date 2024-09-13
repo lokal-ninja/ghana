@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Chemist Limited"
 url: /kumasi/evergreen-chemist-limited/
-shop: Drogerie
+shop: chemist
 ---

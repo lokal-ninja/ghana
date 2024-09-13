@@ -1,5 +1,5 @@
 ---
 title: "Slay by Zuby"
 url: /accra/slay-by-zuby/
-shop: Kosmetik
+shop: beauty
 ---

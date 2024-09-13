@@ -1,5 +1,5 @@
 ---
 title: "Best Burner"
 url: /accra/best-burner/
-shop: Schneiderei
+shop: tailor
 ---

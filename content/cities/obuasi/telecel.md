@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /obuasi/telecel/
-shop: Handy
+shop: mobile phone
 ---

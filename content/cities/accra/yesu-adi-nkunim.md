@@ -1,5 +1,5 @@
 ---
 title: "Yesu Adi Nkunim"
 url: /accra/yesu-adi-nkunim/
-shop: Schneiderei
+shop: tailor
 ---

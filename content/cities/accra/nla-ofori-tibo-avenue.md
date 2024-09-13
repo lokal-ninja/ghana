@@ -1,5 +1,5 @@
 ---
 title: "NLA"
 url: /accra/nla-ofori-tibo-avenue/
-shop: Lotterie
+shop: lottery
 ---

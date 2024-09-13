@@ -1,5 +1,5 @@
 ---
 title: "Master Aquaye mechanic shop"
 url: /mankessim/master-aquaye-mechanic-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

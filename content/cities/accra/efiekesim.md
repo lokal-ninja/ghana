@@ -1,5 +1,5 @@
 ---
 title: "Efiekesim"
 url: /accra/efiekesim/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Danjoe"
 url: /accra/danjoe/
-shop: Schneiderei
+shop: tailor
 ---

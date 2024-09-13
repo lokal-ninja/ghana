@@ -1,5 +1,5 @@
 ---
 title: "Samcoyark Digital Photos"
 url: /accra/samcoyark-digital-photos/
-shop: Foto
+shop: photo
 ---

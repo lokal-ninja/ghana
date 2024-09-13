@@ -1,5 +1,5 @@
 ---
 title: "Yinimalia Trading Enterprise"
 url: /accra/yinimalia-trading-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kass Glamour"
 url: /accra/kass-glamour/
-shop: Kosmetik
+shop: beauty
 ---

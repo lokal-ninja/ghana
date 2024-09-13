@@ -1,5 +1,5 @@
 ---
 title: "Megyefo Tease Salon"
 url: /accra/megyefo-tease-salon/
-shop: Friseur
+shop: hairdresser
 ---

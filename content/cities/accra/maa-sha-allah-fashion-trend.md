@@ -1,5 +1,5 @@
 ---
 title: "Maa Sha Allah Fashion Trend"
 url: /accra/maa-sha-allah-fashion-trend/
-shop: Kleidung
+shop: clothes
 ---

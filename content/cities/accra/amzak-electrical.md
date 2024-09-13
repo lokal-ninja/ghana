@@ -1,5 +1,5 @@
 ---
 title: "Amzak Electrical"
 url: /accra/amzak-electrical/
-shop: Elektronik
+shop: electronics
 ---

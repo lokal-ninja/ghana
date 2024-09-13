@@ -1,5 +1,5 @@
 ---
 title: "Divine Power"
 url: /accra/divine-power/
-shop: Schneiderei
+shop: tailor
 ---

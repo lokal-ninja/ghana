@@ -1,5 +1,5 @@
 ---
 title: "Liverpool"
 url: /accra/liverpool/
-shop: Kleidung
+shop: clothes
 ---

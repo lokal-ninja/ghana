@@ -1,5 +1,5 @@
 ---
 title: "Crystal Unisex Salon"
 url: /accra/crystal-unisex-salon/
-shop: Friseur
+shop: hairdresser
 ---

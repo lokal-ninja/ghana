@@ -1,5 +1,5 @@
 ---
 title: "Makah Traveling Agency"
 url: /accra/makah-traveling-agency/
-shop: Reisebüro
+shop: travel agency
 ---

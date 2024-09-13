@@ -1,5 +1,5 @@
 ---
 title: "Gausia"
 url: /accra/gausia/
-shop: Schneiderei
+shop: tailor
 ---

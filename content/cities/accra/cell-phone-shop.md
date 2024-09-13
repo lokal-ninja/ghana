@@ -1,5 +1,5 @@
 ---
 title: "Cell Phone Shop"
 url: /accra/cell-phone-shop/
-shop: Handy
+shop: mobile phone
 ---

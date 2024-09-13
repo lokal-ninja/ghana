@@ -1,5 +1,5 @@
 ---
 title: "New Vision Property"
 url: /accra/new-vision-property/
-shop: Basteln
+shop: craft
 ---

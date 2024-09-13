@@ -1,5 +1,5 @@
 ---
 title: "Beauty Collection"
 url: /accra/beauty-collection/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glory Laundry Services"
 url: /accra/glory-laundry-services/
-shop: Wäscherei
+shop: laundry
 ---

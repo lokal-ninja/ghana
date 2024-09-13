@@ -1,5 +1,5 @@
 ---
 title: "AT Ghana"
 url: /obuasi/at-ghana/
-shop: Handy
+shop: mobile phone
 ---

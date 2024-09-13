@@ -1,5 +1,5 @@
 ---
 title: "Tabaarakalah Mashaallah"
 url: /accra/tabaarakalah-mashaallah/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garden Mart"
 url: /takoradi/garden-mart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /hohoe/telecel/
-shop: Handy
+shop: mobile phone
 ---

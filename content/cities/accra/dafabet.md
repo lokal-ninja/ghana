@@ -1,5 +1,5 @@
 ---
 title: "Dafabet"
 url: /accra/dafabet/
-shop: Wettbüro
+shop: bookmaker
 ---

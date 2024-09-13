@@ -1,5 +1,5 @@
 ---
 title: "Brown Silk Collection"
 url: /accra/brown-silk-collection/
-shop: Schneiderei
+shop: tailor
 ---

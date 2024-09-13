@@ -1,5 +1,5 @@
 ---
 title: "Electricals Repair Shop"
 url: /accra/electricals-repair-shop/
-shop: Elektronik
+shop: electronics
 ---

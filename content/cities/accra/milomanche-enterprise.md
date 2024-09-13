@@ -1,5 +1,5 @@
 ---
 title: "Milomanche Enterprise"
 url: /accra/milomanche-enterprise/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Annoiting Beauty Salon"
 url: /accra/annoiting-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

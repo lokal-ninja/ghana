@@ -1,5 +1,5 @@
 ---
 title: "Regisam"
 url: /accra/regisam/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "charts beauty saloon"
 url: /accra/charts-beauty-saloon/
-shop: Friseur
+shop: hairdresser
 ---

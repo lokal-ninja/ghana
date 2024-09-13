@@ -1,5 +1,5 @@
 ---
 title: "Chamba Store"
 url: /accra/chamba-store/
-shop: Lebensmittel
+shop: convenience
 ---

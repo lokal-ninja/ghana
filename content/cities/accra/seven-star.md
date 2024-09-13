@@ -1,5 +1,5 @@
 ---
 title: "Seven star"
 url: /accra/seven-star/
-shop: Kiosk
+shop: kiosk
 ---

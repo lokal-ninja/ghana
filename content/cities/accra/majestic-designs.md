@@ -1,5 +1,5 @@
 ---
 title: "Majestic Designs"
 url: /accra/majestic-designs/
-shop: Schneiderei
+shop: tailor
 ---

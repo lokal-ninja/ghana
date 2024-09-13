@@ -1,5 +1,5 @@
 ---
 title: "Kaslee Company Limited"
 url: /accra/kaslee-company-limited/
-shop: Möbel
+shop: furniture
 ---

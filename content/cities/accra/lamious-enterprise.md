@@ -1,5 +1,5 @@
 ---
 title: "Lamious Enterprise"
 url: /accra/lamious-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

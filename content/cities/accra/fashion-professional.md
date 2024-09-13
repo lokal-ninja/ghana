@@ -1,5 +1,5 @@
 ---
 title: "Fashion Professional"
 url: /accra/fashion-professional/
-shop: Schneiderei
+shop: tailor
 ---

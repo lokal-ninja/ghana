@@ -1,5 +1,5 @@
 ---
 title: "Satellite Avenue"
 url: /kumasi/satellite-avenue/
-shop: Elektronik
+shop: electronics
 ---

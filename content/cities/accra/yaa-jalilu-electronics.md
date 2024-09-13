@@ -1,5 +1,5 @@
 ---
 title: "Yaa Jalilu Electronics"
 url: /accra/yaa-jalilu-electronics/
-shop: Elektronik
+shop: electronics
 ---

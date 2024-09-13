@@ -1,5 +1,5 @@
 ---
-title: "Jesus Never fails"
+title: "Jesus Never Fails"
 url: /accra/jesus-never-fails/
-shop: Lebensmittel
+shop: tailor
 ---

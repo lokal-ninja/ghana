@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /kumasi/telecel/
-shop: Handy
+shop: mobile phone
 ---

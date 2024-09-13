@@ -1,5 +1,5 @@
 ---
 title: "Hajia Barikisu Kloding"
 url: /accra/hajia-barikisu-kloding/
-shop: Schneiderei
+shop: tailor
 ---

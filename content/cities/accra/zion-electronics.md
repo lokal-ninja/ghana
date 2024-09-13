@@ -1,5 +1,5 @@
 ---
 title: "Zion Electronics"
 url: /accra/zion-electronics/
-shop: Elektronik
+shop: electronics
 ---

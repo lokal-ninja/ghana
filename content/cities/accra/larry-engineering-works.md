@@ -1,5 +1,5 @@
 ---
 title: "Larry Engineering Works"
 url: /accra/larry-engineering-works/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bougent"
 url: /accra/bougent/
-shop: Konditorei
+shop: pastry
 ---

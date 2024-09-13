@@ -1,5 +1,5 @@
 ---
 title: "Erico Unisex"
 url: /accra/erico-unisex/
-shop: Kleidung
+shop: clothes
 ---

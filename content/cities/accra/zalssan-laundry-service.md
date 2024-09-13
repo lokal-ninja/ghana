@@ -1,5 +1,5 @@
 ---
 title: "Zalssan Laundry Service"
 url: /accra/zalssan-laundry-service/
-shop: Wäscherei
+shop: laundry
 ---

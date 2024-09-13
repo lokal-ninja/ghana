@@ -1,5 +1,5 @@
 ---
 title: "Pomp Servicer"
 url: /accra/pomp-servicer/
-shop: Eisenwaren
+shop: hardware
 ---

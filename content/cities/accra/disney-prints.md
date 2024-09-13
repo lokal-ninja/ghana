@@ -1,5 +1,5 @@
 ---
 title: "Disney Prints"
 url: /accra/disney-prints/
-shop: Kopieren
+shop: copyshop
 ---

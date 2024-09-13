@@ -1,5 +1,5 @@
 ---
 title: "Anima's Beauty Salon"
 url: /accra/animas-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

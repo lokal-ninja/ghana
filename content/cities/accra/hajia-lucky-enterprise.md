@@ -1,5 +1,5 @@
 ---
 title: "Hajia Lucky Enterprise"
 url: /accra/hajia-lucky-enterprise/
-shop: Lebensmittel
+shop: convenience
 ---

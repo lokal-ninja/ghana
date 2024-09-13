@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /accra/serenity/
-shop: Kleidung
+shop: clothes
 ---

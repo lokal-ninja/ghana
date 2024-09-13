@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /accra/telecel-h-p-nyemetei-street/
-shop: Handy
+shop: mobile phone
 ---

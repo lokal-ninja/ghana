@@ -1,5 +1,5 @@
 ---
 title: "Motor Mechanic"
 url: /accra/motor-mechanic/
-shop: Autowerkstatt
+shop: car repair
 ---

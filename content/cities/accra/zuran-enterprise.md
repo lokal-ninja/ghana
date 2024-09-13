@@ -1,5 +1,5 @@
 ---
 title: "Zuran Enterprise"
 url: /accra/zuran-enterprise/
-shop: Schneiderei
+shop: tailor
 ---

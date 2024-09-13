@@ -1,5 +1,5 @@
 ---
 title: "Yeah Dia"
 url: /accra/yeah-dia/
-shop: Kiosk
+shop: kiosk
 ---

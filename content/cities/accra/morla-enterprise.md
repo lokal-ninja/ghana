@@ -1,5 +1,5 @@
 ---
 title: "Morla Enterprise"
 url: /accra/morla-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

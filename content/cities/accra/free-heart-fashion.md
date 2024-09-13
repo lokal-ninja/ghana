@@ -1,5 +1,5 @@
 ---
 title: "Free Heart Fashion"
 url: /accra/free-heart-fashion/
-shop: Schneiderei
+shop: tailor
 ---

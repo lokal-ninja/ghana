@@ -1,5 +1,5 @@
 ---
 title: "Barikima Clothing"
 url: /accra/barikima-clothing/
-shop: Schneiderei
+shop: tailor
 ---

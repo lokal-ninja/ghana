@@ -1,5 +1,5 @@
 ---
 title: "Anim Motors"
 url: /accra/anim-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

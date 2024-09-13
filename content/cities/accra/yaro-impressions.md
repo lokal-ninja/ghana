@@ -1,5 +1,5 @@
 ---
 title: "Yaro Impressions"
 url: /accra/yaro-impressions/
-shop: Kopieren
+shop: copyshop
 ---

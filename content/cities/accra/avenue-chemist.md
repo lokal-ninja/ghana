@@ -1,5 +1,5 @@
 ---
 title: "Avenue Chemist"
 url: /accra/avenue-chemist/
-shop: Drogerie
+shop: chemist
 ---

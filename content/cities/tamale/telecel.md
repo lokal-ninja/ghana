@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /tamale/telecel/
-shop: Handy
+shop: mobile phone
 ---

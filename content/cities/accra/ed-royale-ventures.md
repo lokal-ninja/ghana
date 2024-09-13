@@ -1,5 +1,5 @@
 ---
 title: "Ed Royale Ventures"
 url: /accra/ed-royale-ventures/
-shop: Elektronik
+shop: electronics
 ---

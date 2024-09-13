@@ -1,5 +1,5 @@
 ---
 title: "Obapa Mother Care"
 url: /accra/obapa-mother-care/
-shop: Babysachen
+shop: baby goods
 ---

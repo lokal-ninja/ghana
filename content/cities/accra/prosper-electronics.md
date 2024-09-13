@@ -1,5 +1,5 @@
 ---
 title: "Prosper Electronics"
 url: /accra/prosper-electronics/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apple Life"
 url: /accra/apple-life/
-shop: Handy
+shop: mobile phone
 ---

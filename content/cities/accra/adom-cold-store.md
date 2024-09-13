@@ -1,5 +1,5 @@
 ---
 title: "Adom Cold Store"
 url: /accra/adom-cold-store/
-shop: Metzgerei
+shop: butcher
 ---

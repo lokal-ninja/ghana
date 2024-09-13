@@ -1,5 +1,5 @@
 ---
 title: "God Raised Enterprise"
 url: /accra/god-raised-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /kumasi/telecel-sunyani-road/
-shop: Handy
+shop: mobile phone
 ---

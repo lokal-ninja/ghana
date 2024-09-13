@@ -1,5 +1,5 @@
 ---
 title: "Doris Fashion"
 url: /accra/doris-fashion/
-shop: Schneiderei
+shop: tailor
 ---

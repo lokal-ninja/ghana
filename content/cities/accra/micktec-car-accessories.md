@@ -1,5 +1,5 @@
 ---
 title: "Micktec Car Accessories"
 url: /accra/micktec-car-accessories/
-shop: Autoteile
+shop: car parts
 ---

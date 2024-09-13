@@ -1,5 +1,5 @@
 ---
 title: "Rukash Enterprice"
 url: /accra/rukash-enterprice/
-shop: Kiosk
+shop: kiosk
 ---

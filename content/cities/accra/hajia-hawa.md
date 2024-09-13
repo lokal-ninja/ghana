@@ -1,5 +1,5 @@
 ---
 title: "Hajia Hawa"
 url: /accra/hajia-hawa/
-shop: Kiosk
+shop: kiosk
 ---

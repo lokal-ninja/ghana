@@ -1,5 +1,5 @@
 ---
 title: "Latex Foam"
 url: /accra/latex-foam/
-shop: Betten
+shop: bed
 ---

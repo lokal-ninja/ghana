@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /accra/telecel-winneba-road/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "No Rush Boutique"
 url: /accra/no-rush-boutique/
-shop: Kleidung
+shop: clothes
 ---

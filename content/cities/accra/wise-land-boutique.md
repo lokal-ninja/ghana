@@ -1,5 +1,5 @@
 ---
 title: "Wise Land Boutique"
 url: /accra/wise-land-boutique/
-shop: Kleidung
+shop: clothes
 ---

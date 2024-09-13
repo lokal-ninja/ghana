@@ -1,5 +1,5 @@
 ---
 title: "Hand are Blessed Beauty Palace"
 url: /accra/hand-are-blessed-beauty-palace/
-shop: Friseur
+shop: hairdresser
 ---

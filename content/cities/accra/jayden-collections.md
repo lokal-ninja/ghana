@@ -1,5 +1,5 @@
 ---
 title: "Jayden Collections"
 url: /accra/jayden-collections/
-shop: Kleidung
+shop: clothes
 ---

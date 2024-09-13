@@ -1,5 +1,5 @@
 ---
 title: "Kakra Enterprise"
 url: /accra/kakra-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

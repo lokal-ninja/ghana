@@ -1,5 +1,5 @@
 ---
 title: "Kumasi City Mall"
 url: /kumasi/kumasi-city-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

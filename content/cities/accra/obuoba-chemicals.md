@@ -1,5 +1,5 @@
 ---
 title: "Obuoba Chemicals"
 url: /accra/obuoba-chemicals/
-shop: Drogerie
+shop: chemist
 ---

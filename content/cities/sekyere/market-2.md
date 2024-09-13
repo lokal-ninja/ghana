@@ -1,5 +1,5 @@
 ---
 title: "Market"
 url: /sekyere/market-2/
-shop: Supermarkt
+shop: supermarket
 ---

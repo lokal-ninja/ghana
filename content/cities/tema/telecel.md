@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /tema/telecel/
-shop: Handy
+shop: mobile phone
 ---

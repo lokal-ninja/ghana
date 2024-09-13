@@ -1,5 +1,5 @@
 ---
 title: "Cissey Fashion Designer"
 url: /accra/cissey-fashion-designer/
-shop: Schneiderei
+shop: tailor
 ---

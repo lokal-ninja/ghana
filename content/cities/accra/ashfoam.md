@@ -1,5 +1,5 @@
 ---
 title: "Ashfoam"
 url: /accra/ashfoam/
-shop: Betten
+shop: bed
 ---

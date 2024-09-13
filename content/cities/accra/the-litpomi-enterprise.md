@@ -1,5 +1,5 @@
 ---
 title: "The Litpomi Enterprise"
 url: /accra/the-litpomi-enterprise/
-shop: Kleidung
+shop: clothes
 ---

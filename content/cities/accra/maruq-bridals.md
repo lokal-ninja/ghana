@@ -1,5 +1,5 @@
 ---
 title: "Maruq Bridals"
 url: /accra/maruq-bridals/
-shop: Kosmetik
+shop: beauty
 ---

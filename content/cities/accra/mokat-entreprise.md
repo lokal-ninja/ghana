@@ -1,5 +1,5 @@
 ---
 title: "Mokat Entreprise"
 url: /accra/mokat-entreprise/
-shop: Lebensmittel
+shop: convenience
 ---

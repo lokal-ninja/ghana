@@ -1,5 +1,5 @@
 ---
 title: "Ghana Mall"
 url: /accra/ghana-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

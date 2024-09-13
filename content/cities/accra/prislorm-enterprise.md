@@ -1,5 +1,5 @@
 ---
 title: "Prislorm Enterprise"
 url: /accra/prislorm-enterprise/
-shop: Elektronik
+shop: electronics
 ---

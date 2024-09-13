@@ -1,5 +1,5 @@
 ---
 title: "Zaitifa Ventures"
 url: /accra/zaitifa-ventures/
-shop: Dorfladen
+shop: general
 ---

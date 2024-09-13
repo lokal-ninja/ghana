@@ -1,5 +1,5 @@
 ---
 title: "EA Dealers"
 url: /accra/ea-dealers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /swedru/telecel/
-shop: Handy
+shop: mobile phone
 ---

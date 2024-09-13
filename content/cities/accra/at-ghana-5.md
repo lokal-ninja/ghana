@@ -1,5 +1,5 @@
 ---
 title: "AT Ghana"
 url: /accra/at-ghana-5/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yram'S Clothing"
 url: /accra/yrams-clothing/
-shop: Kleidung
+shop: clothes
 ---

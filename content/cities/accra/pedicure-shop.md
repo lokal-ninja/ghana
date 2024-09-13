@@ -1,5 +1,5 @@
 ---
 title: "Pedicure Shop"
 url: /accra/pedicure-shop/
-shop: Kosmetik
+shop: beauty
 ---

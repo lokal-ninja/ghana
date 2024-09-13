@@ -1,5 +1,5 @@
 ---
 title: "United Engineering Ent."
 url: /accra/united-engineering-ent/
-shop: Schreibwaren
+shop: office supplies
 ---

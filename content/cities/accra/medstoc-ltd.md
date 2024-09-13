@@ -1,5 +1,5 @@
 ---
 title: "Medstoc Ltd."
 url: /accra/medstoc-ltd/
-shop: Sanitätshaus
+shop: medical supply
 ---

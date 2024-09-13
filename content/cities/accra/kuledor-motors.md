@@ -1,5 +1,5 @@
 ---
 title: "Kuledor Motors"
 url: /accra/kuledor-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

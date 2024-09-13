@@ -1,5 +1,5 @@
 ---
 title: "Still Shop"
 url: /accra/still-shop/
-shop: Kiosk
+shop: kiosk
 ---

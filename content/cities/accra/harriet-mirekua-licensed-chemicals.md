@@ -1,5 +1,5 @@
 ---
 title: "Harriet Mirekua Licensed Chemicals"
 url: /accra/harriet-mirekua-licensed-chemicals/
-shop: Drogerie
+shop: chemist
 ---

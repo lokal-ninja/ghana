@@ -1,5 +1,5 @@
 ---
 title: "Bliss Impression"
 url: /accra/bliss-impression/
-shop: Kopieren
+shop: copyshop
 ---

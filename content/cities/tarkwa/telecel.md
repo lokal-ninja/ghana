@@ -1,5 +1,5 @@
 ---
 title: "Telecel"
 url: /tarkwa/telecel/
-shop: Handy
+shop: mobile phone
 ---

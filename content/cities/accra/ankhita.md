@@ -1,5 +1,5 @@
 ---
 title: "Ankhita"
 url: /accra/ankhita/
-shop: Kopieren
+shop: copyshop
 ---

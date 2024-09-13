@@ -1,5 +1,5 @@
 ---
 title: "Esther Enterprise"
 url: /accra/esther-enterprise/
-shop: Kiosk
+shop: kiosk
 ---

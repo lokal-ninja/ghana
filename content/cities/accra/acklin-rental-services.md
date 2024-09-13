@@ -1,5 +1,5 @@
 ---
 title: "Acklin Rental Services"
 url: /accra/acklin-rental-services/
-shop: Mieten
+shop: storage rental
 ---
