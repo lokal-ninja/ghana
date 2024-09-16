@@ -1,11 +1,11 @@
 id: 1297466407
-type: way
+type: node
 latitude: 5.65085
 longitude: -0.15102
 postcode: ""
 city: East Legon, American House
-street: "Boundary Road"
-housenumber: 75
+street: Boundary Road
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

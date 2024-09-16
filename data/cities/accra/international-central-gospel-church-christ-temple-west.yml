@@ -4,8 +4,8 @@ latitude: 5.5544
 longitude: -0.23041
 postcode: ""
 city: Accra
-street: "Ring Road West"
-housenumber: 69
-phone: "+233 302 6880004"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.centralgospel.com/"
+street: Ring Road West
+housenumber: "69"
+phone: +233 302 6880004
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.centralgospel.com/

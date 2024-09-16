@@ -1,11 +1,11 @@
 id: 1308692827
-type: way
+type: node
 latitude: 5.6754
 longitude: -0.23715
 postcode: "00233"
 city: Kwabenya
-street: "Atomic Hills Estate St"
-housenumber: 
-phone: "+233 59 854 3939"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://wa.me/233598543939"
+street: Atomic Hills Estate St
+housenumber: ""
+phone: +233 59 854 3939
+opening_hours: Mo-Su 08:00-22:00
+website: https://wa.me/233598543939

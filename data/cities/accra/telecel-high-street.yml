@@ -2,10 +2,10 @@ id: 5321439751
 type: node
 latitude: 5.54217
 longitude: -0.20554
-postcode: "GA183"
+postcode: GA183
 city: Accra
-street: "High Street"
-housenumber: 
-phone: "+233 50 555 5111"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00"
-website: "https://telecel.com.gh"
+street: High Street
+housenumber: ""
+phone: +233 50 555 5111
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00
+website: https://telecel.com.gh

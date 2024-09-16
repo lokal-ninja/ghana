@@ -1,11 +1,11 @@
 id: 1124315133
-type: way
+type: node
 latitude: 5.77068
 longitude: -0.00247
 postcode: ""
 city: Tema
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

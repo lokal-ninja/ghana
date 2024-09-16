@@ -1,11 +1,11 @@
 id: 672669045
-type: way
+type: node
 latitude: 5.42872
 longitude: -0.95791
 postcode: ""
 city: Ajumako
-street: "Accra - Assasane"
-housenumber: 2
+street: Accra - Assasane
+housenumber: "2"
 phone: ""
-opening_hours: "04:00-23:00"
+opening_hours: 04:00-23:00
 website: ""
