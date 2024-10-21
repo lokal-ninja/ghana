@@ -1,6 +1,6 @@
 ---
 title: Koforidua
 url: /koforidua/
-latitude: 6.096
-longitude: -0.258
+latitude: 6.095
+longitude: -0.257
 ---
