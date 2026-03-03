@@ -1,5 +1,5 @@
 ---
-title: "BABS Ventures"
+title: "Babs Ventures"
 url: /accra/babs-ventures/
-shop: electronics
+shop: greengrocer
 ---
