@@ -1,5 +1,5 @@
 ---
-title: "God is Great Fashion"
+title: "God Is Great Fashion"
 url: /accra/god-is-great-fashion/
 shop: tailor
 ---
