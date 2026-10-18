@@ -1,5 +1,5 @@
 ---
-title: "All shall Pass"
+title: "All Shall Pass"
 url: /accra/all-shall-pass/
-shop: kiosk
+shop: tailor
 ---

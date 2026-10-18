@@ -1,5 +1,5 @@
 ---
-title: "Gye Nyame"
+title: "Gye NYame"
 url: /accra/gye-nyame/
-shop: convenience
+shop: hairdresser
 ---
