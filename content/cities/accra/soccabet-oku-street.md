@@ -1,5 +1,5 @@
 ---
 title: "Soccabet"
-url: /accra/soccabet-2/
+url: /accra/soccabet-oku-street/
 shop: bookmaker
 ---

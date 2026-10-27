@@ -1,5 +1,5 @@
 ---
-title: "ROPEAK LTD"
+title: "Ropeak Ltd"
 url: /sunyani/ropeak-ltd/
 shop: supermarket
 ---

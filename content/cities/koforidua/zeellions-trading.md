@@ -1,5 +1,5 @@
 ---
-title: "ZEELLIONS TRADING"
+title: "Zeellions Trading"
 url: /koforidua/zeellions-trading/
-shop: shop
+shop: mobile phone
 ---
