@@ -1,5 +1,5 @@
 ---
-title: "God is Great"
+title: "God Is Great"
 url: /accra/god-is-great/
-shop: kiosk
+shop: greengrocer
 ---
